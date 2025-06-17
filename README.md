@@ -37,8 +37,6 @@ This project is a fully interactive **RAG (Retrieval-Augmented Generation) Chatb
 ---
 ---
 ## 🗂️ Project Structure
-## 🗂️ Project Structure
-
 ```bash
 rag_chatbot/
 ├── app.py               # Streamlit frontend
