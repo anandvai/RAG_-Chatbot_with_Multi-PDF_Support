@@ -37,13 +37,17 @@ This project is a fully interactive **RAG (Retrieval-Augmented Generation) Chatb
 ---
 ---
 ## 🗂️ Project Structure
+## 🗂️ Project Structure
+
+```bash
 rag_chatbot/
-├── app.py # Streamlit frontend
-├── rag_engine.py # Core RAG logic (PDF loading, LLM response)
-├── .env # API key for Groq
-├── temp/ # Temporary file storage
-├── requirements.txt
-└── README.md
+├── app.py               # Streamlit frontend
+├── rag_engine.py        # Core RAG logic (PDF loading, LLM response)
+├── .env                 # API key for Groq
+├── temp/                # Temporary file storage
+├── requirements.txt     # Project dependencies
+└── README.md            # Project documentation
+
 ---
 
 
